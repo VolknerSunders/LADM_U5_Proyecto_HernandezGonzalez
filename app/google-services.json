@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620776503085",
+    "project_id": "maps-4bb16",
+    "storage_bucket": "maps-4bb16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620776503085:android:1c1dd60d2a9be58ab405a4",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_proyecto_hernandezgonzalez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620776503085-mb62i8dhamqj9ccki7qm76dmfnad5k44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCN9gEMvPa6CmlugdLMQvWvG13x939jQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620776503085-mb62i8dhamqj9ccki7qm76dmfnad5k44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
